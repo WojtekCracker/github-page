@@ -4,3 +4,7 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+button{
+    background-color: #333333; color: #03fcf4;border-radius: 5px;
+    
+}
